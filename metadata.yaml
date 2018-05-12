@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '36993'
     url: http://www.gutenberg.org/2009/agents/36993
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34388#Coloniza--o-de-Louren-o-Marques
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2010-11-21'
 gutenberg_type: Text
